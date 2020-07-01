@@ -167,6 +167,7 @@
     help(random)
     dir(random)
     random.randint?
-    > *ou bien*
+> *ou bien*
+
     help(random.randint)
     random.randint(1, 100)
